@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/controller/JobController.class
+com/example/demo/service/JobRequestService.class
+com/example/demo/model/JobRequest.class
+com/example/demo/config/KafkaConfig.class
+com/example/demo/service/KafkaProducerService.class
